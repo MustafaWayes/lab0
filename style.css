@@ -12,6 +12,9 @@
   display: grid;
   grid-template-columns: 1fr 8fr 1fr;
 }
+.container .second .icon {
+  padding-top: 50px;
+}
 .container .third {
   background-color: darkorange;
   display: grid;
