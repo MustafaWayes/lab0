@@ -1,0 +1,19 @@
+.container {
+  background-color: grey;
+  width: 60%;
+  margin: 50px auto;
+  padding: 10px;
+}
+.container .first {
+  background-color: crimson;
+}
+.container .second {
+  background-color: cyan;
+  display: grid;
+  grid-template-columns: 1fr 8fr 1fr;
+}
+.container .third {
+  background-color: darkorange;
+  display: grid;
+  grid-template-columns: 1fr 8fr 1fr;
+}
